@@ -1,0 +1,4 @@
+# don't autocrlf anything, I like to keep original line endings 
+* -text
+
+*.cs     diff=csharp
