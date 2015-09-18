@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="DishRequestItemTests.cs" />
     <Compile Include="ExtensionTests.cs" />
+    <Compile Include="MealEntryTests.cs" />
     <Compile Include="MealRequestTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
